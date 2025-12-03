@@ -21,17 +21,21 @@ Unlike simple academic projects, this system implements a strict **Model-View-Co
 
 ## 🚀 Key Features
 
-Based on the included user manual:
+This project meets strict quality standards, including:
 
-* **Member & Trainer Management:** Full CRUD (Create, Read, Update, Delete) operations for user information.
-* **Activity Management:** Administration of classes such as Body Combat, Pilates, Yoga, etc.
+* **Advanced Data Integrity:**
+    * [cite_start]Uses **Database Transactions** to ensure safe CRUD operations[cite: 220].
+    * [cite_start]Implements a mix of **HQL (Hibernate Query Language)**, Named Queries, and Native SQL for optimized performance[cite: 233].
+* **Robust Input Validation:**
+    * [cite_start]Strict validation logic: Prevents invalid DNI formats, enforces correct email patterns, and validates phone number length (9 digits)[cite: 295, 317].
+    * [cite_start]Business logic constraints: Ensures members are over 18 years old and prevents duplicate records[cite: 317].
 * **Smart Enrollment System:**
-    * **Activity Registration:** Allows enrolling members by filtering only those activities where they are NOT currently registered.
-    * **Activity Cancellation:** Displays only the member's active subscriptions for management.
-* **Graphical User Interface (Swing):** Intuitive design with dynamic tables for visualizing large datasets.
-* **Dual Persistence:** Configured to work seamlessly with both **Oracle Database** and **MariaDB** via external configuration files.
-
----
+    * **Conflict Resolution:** Only allows enrolling members in activities they are not currently attending.
+    * [cite_start]**Dynamic Filtering:** Includes a search filter to quickly locate members in the database[cite: 317].
+* **Enhanced UI/UX:**
+    * [cite_start]Integrated **JCalendar** components for intuitive date selection[cite: 288].
+    * [cite_start]Customized **Look and Feel** for a professional visual experience[cite: 234].
+    * [cite_start]Modal windows with context-aware error messages[cite: 290].
 
 ## 🛠️ Tech Stack
 
