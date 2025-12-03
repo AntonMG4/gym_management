@@ -17,15 +17,6 @@
 
 Unlike simple academic projects, this system implements a strict **Model-View-Controller (MVC)** architecture, decoupling business logic from the user interface, and utilizes **Hibernate** for an agnostic data access layer (compatible with both MariaDB and Oracle).
 
-### 📸 Screenshots
-
-| Main Dashboard | Activity Management |
-|:---:|:---:|
-| ![Main Screen](path/to/your/cover_image.png) | ![Activities Table](path/to/your/table_image.png) |
-| *Quick access to modules* | *Member filtering and assignment* |
-
-*(Note: Replace `path/to/your...` with the actual path to your images in the repository)*
-
 ---
 
 ## 🚀 Key Features
