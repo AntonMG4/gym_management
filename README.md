@@ -51,7 +51,7 @@ This project leverages industry-standard Enterprise technologies:
 The code organization reflects software engineering best practices:
 
 ```text
-PROYECTO_DDSI/
+gym_management/
 ├── src/main/java/
 │   ├── Controlador/      # Logic coordinating user-system interaction
 │   ├── Modelo/           # Hibernate entities and data logic
