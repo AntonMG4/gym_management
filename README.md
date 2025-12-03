@@ -24,18 +24,18 @@ Unlike simple academic projects, this system implements a strict **Model-View-Co
 This project meets strict quality standards, including:
 
 * **Advanced Data Integrity:**
-    * [cite_start]Uses **Database Transactions** to ensure safe CRUD operations[cite: 220].
-    * [cite_start]Implements a mix of **HQL (Hibernate Query Language)**, Named Queries, and Native SQL for optimized performance[cite: 233].
+    * Uses **Database Transactions** to ensure safe CRUD operations.
+    * Implements a mix of **HQL (Hibernate Query Language)**, Named Queries, and Native SQL for optimized performance.
 * **Robust Input Validation:**
-    * [cite_start]Strict validation logic: Prevents invalid DNI formats, enforces correct email patterns, and validates phone number length (9 digits)[cite: 295, 317].
-    * [cite_start]Business logic constraints: Ensures members are over 18 years old and prevents duplicate records[cite: 317].
+    * Strict validation logic: Prevents invalid DNI formats, enforces correct email patterns, and validates phone number length (9 digits).
+    * Business logic constraints: Ensures members are over 18 years old and prevents duplicate records.
 * **Smart Enrollment System:**
     * **Conflict Resolution:** Only allows enrolling members in activities they are not currently attending.
-    * [cite_start]**Dynamic Filtering:** Includes a search filter to quickly locate members in the database[cite: 317].
+    * **Dynamic Filtering:** Includes a search filter to quickly locate members in the database.
 * **Enhanced UI/UX:**
-    * [cite_start]Integrated **JCalendar** components for intuitive date selection[cite: 288].
-    * [cite_start]Customized **Look and Feel** for a professional visual experience[cite: 234].
-    * [cite_start]Modal windows with context-aware error messages[cite: 290].
+    * Integrated **JCalendar** components for intuitive date selection.
+    * Customized **Look and Feel** for a professional visual experience.
+    * Modal windows with context-aware error messages.
 
 ## 🛠️ Tech Stack
 
