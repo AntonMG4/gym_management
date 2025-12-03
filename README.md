@@ -1,6 +1,6 @@
 # 🦈 Muscle Shark - Gym Management System
 
-![License](https://github.com/AntonMG4/gym_management/blob/main/LICENSE?style=for-the-badge&logo=github) 
+![License](https://img.shields.io/github/license/AntonMG4/gym_management?style=for-the-badge&logo=github)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
