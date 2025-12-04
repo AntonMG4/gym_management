@@ -9,6 +9,8 @@
 
 > A robust desktop application designed for the comprehensive administration of gym members, trainers, and sports activities, implementing the MVC design pattern and advanced data persistence.
 
+![Gameplay Screenshot](src\main\resources\images\muscleshark-removebg-preview (2).pgn)
+
 ---
 
 ## 📖 Project Overview
