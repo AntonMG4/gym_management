@@ -13,7 +13,9 @@
 
 ## 📖 Project Overview
 
-![Gameplay Screenshot](src/main/resources/images/muscleshark-removebg-preview%20(2).png)
+<p align="center">
+  <img src="src/main/resources/images/muscleshark-removebg-preview%20(2).png" alt="Gameplay Screenshot">
+</p>
 
 **Muscle Shark Gym Centre** is a system developed in Java to optimize the daily workflow of a fitness center. The project addresses the need to efficiently manage member enrollments and cancellations across various directed activities.
 
