@@ -9,11 +9,11 @@
 
 > A robust desktop application designed for the comprehensive administration of gym members, trainers, and sports activities, implementing the MVC design pattern and advanced data persistence.
 
-![Gameplay Screenshot](src/main/resources/images/muscleshark-removebg-preview (2).png)
-
 ---
 
 ## 📖 Project Overview
+
+![Gameplay Screenshot](src/main/resources/images/muscleshark-removebg-preview (2).png)
 
 **Muscle Shark Gym Centre** is a system developed in Java to optimize the daily workflow of a fitness center. The project addresses the need to efficiently manage member enrollments and cancellations across various directed activities.
 
