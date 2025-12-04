@@ -70,5 +70,5 @@ gym_management/
 │   ├── hibernateMariaDB.cfg.xml  # MariaDB connection config
 │   └── hibernateOracle.cfg.xml   # Oracle connection config
 ├── docs/
-│   └── manual_de_instrucciones.pdf # Complete user manual
+│   └── manual.pdf        # Complete user manual
 └── pom.xml               # Maven dependencies
